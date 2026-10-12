@@ -1,0 +1,14 @@
+[package]
+name = "lopjoss/signal"
+description = "A typed Luau signal implementation for Roblox with extensive method chaining to manipulate events"
+version = "1.0.0"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = [
+    "wally.toml",
+    "default.project.json",
+    "src",
+    "src/signal.luau"
+]
+exclude = ["**"]

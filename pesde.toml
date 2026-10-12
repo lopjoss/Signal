@@ -1,8 +1,0 @@
-name = "lopjoss/signal"
-version = "1.0.0"
-repository = "https://github.com/lopjoss/Signal.git"
-
-[target]
-environment = "roblox"
-lib = "src/signal.luau"
-build_files = ["src/signal.luau"]

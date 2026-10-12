@@ -1,0 +1,1 @@
+A typed Luau signal implementation for Roblox with extensive method chaining to manipulate events

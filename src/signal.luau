@@ -2,7 +2,6 @@
 --!optimize 2
 
 -- signal implementation by @lopjoss
--- v1.0.2
 
 local module = {}
 
